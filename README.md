@@ -36,7 +36,7 @@ I love working with **MERN**, **Java**, **Next.js**, and exploring advanced topi
 </p>
 
 <p>
-  <img height="140" src="https://assets.leetcode.com/static_assets/marketing/2021-50.png" />
+  <img height="140" src="https://assets.leetcode.com/static_assets/others/2550.gif" />
   <img height="140" src="https://assets.leetcode.com/static_assets/marketing/2021-100.png" />
 </p>
 
