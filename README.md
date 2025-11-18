@@ -37,7 +37,7 @@ I love working with **MERN**, **Java**, **Next.js**, and exploring advanced topi
 
 <p>
   <img height="140" src="https://assets.leetcode.com/static_assets/others/2550.gif" />
-  <img height="140" src="https://leetcode.com/medal/?showImg=0&id=8635112&isLevel=false" />
+  <img height="140" src="https://assets.leetcode.com/static_assets/others/25100.gif" />
 </p>
 
 - 🟩 **50 Days Badge – Active**  
