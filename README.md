@@ -148,10 +148,7 @@ Fetches & visualizes LeetCode problem-solving metrics in real time.
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushMhaisane/AyushMhaisane/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ---
 
