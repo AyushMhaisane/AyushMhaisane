@@ -13,8 +13,12 @@ I’m a passionate **Full-Stack Developer** and a **3rd-year Information Technol
 
 I bridge the gap between **Software Engineering** and **Artificial Intelligence**, currently exploring **Agentic AI, RAG Systems, and Automation workflows**.
 
-- 🔭 Working on: **AI-Enhanced Data Pipelines & GenAI Automation** - 💼 Experience: **Cyber Security Intern @ Cyber Cell, Pune** - 🚀 Strong in: **Node.js, React, Puppeteer, Gemini API, SQL/NoSQL** - 🧠 DSA Practice: Active on **LeetCode (100+ Day Streak)** - 🎯 Goal: To engineer robust systems that solve real-world problems  
-- 🌐 Portfolio: [Link to Portfolio](https://portfolio-y9vl.vercel.app/)  
+- 🔭 Working on: **AI-Enhanced Data Pipelines & GenAI Automation**
+- 💼 Experience: **Cyber Security Intern @ Cyber Cell, Pune**
+- 🚀 Strong in: **Node.js, React, Puppeteer, Gemini API, SQL/NoSQL**
+- 🧠 DSA Practice: Active on **LeetCode (100+ Day Streak)**
+- 🎯 Goal: To engineer robust systems that solve real-world problems
+- 🌐 Portfolio: [Link to Portfolio](https://portfolio-1hx1.onrender.com/)
 
 ---
 
@@ -76,28 +80,31 @@ I bridge the gap between **Software Engineering** and **Artificial Intelligence*
 ## 🌟 Featured Projects
 
 ### 🤖 **AI-Enhanced Data Scraper**
-**Node.js · Puppeteer · Google Gemini API · Jest** A robust backend pipeline that automates data extraction from dynamic documentation (BeyondChats).  
-- Uses **Puppeteer** to navigate complex, multi-page sites.  
-- Integrates **Gemini AI** to sanitize unstructured HTML into clean Markdown.  
+**Node.js · Puppeteer · Google Gemini API · Jest**
+A robust backend pipeline that automates data extraction from dynamic documentation (BeyondChats).
+- Uses **Puppeteer** to navigate complex, multi-page sites.
+- Integrates **Gemini AI** to sanitize unstructured HTML into clean Markdown.
 - Includes **Unit Testing** with Jest for reliability.
 
 ### 🛠️ **AI-Powered IT Support Platform**
-**React · Supabase · n8n · Gemini LLM** A smart ticketing dashboard that reduces manual triage time.  
-- **Automated Workflows:** Uses n8n to route tickets based on priority.  
-- **Sentiment Analysis:** AI analyzes ticket content to detect urgency.  
+**React · Supabase · n8n · Gemini LLM**
+A smart ticketing dashboard that reduces manual triage time.
+- **Automated Workflows:** Uses n8n to route tickets based on priority.
+- **Sentiment Analysis:** AI analyzes ticket content to detect urgency.
 - **Real-time:** Live updates using Supabase subscriptions.
 
 ### 📅 **Calendly Clone**
-**Next.js · Prisma · NeonDB · Clerk Auth** A full-stack scheduling tool.  
-- Auto-generates **Google Meet** links upon booking.  
+**Next.js · Prisma · NeonDB · Clerk Auth**
+A full-stack scheduling tool.
+- Auto-generates **Google Meet** links upon booking.
 - Handles time-zone conversions and availability management.
 
 ---
 
 ## 📜 Certifications
-- **Database Management Systems (Elite)** — NPTEL  
-- **Generative AI Tools Workshop** — BE10x  
-- **Data Structures & Algorithms** — Various Platforms  
+- **Database Management Systems (Elite)** — NPTEL
+- **Generative AI Tools Workshop** — BE10x
+- **Data Structures & Algorithms** — Various Platforms
 
 ---
 
@@ -107,10 +114,13 @@ I bridge the gap between **Software Engineering** and **Artificial Intelligence*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMhaisane&theme=tokyonight" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushMhaisane&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMhaisane&layout=compact&theme=tokyonight" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushMhaisane&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMhaisane&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -125,8 +135,8 @@ I bridge the gap between **Software Engineering** and **Artificial Intelligence*
   <img height="120" src="https://assets.leetcode.com/static_assets/others/25100.gif" />
 </p>
 
-- 🔵 **100 Days Badge** (Earned Nov 2025)  
-- 💡 Solving Problems Daily in Java/C++  
+- 🔵 **100 Days Badge** (Earned Nov 2025)
+- 💡 Solving Problems Daily in Java/C++
 
 ---
 
