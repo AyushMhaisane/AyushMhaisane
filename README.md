@@ -157,7 +157,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
   <a href="https://leetcode.com/u/Ayush_Mhaisane/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://portfolio-y9vl.vercel.app/">
+  <a href="www.ayushmhaisane.in">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
 </p>
