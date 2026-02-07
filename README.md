@@ -18,7 +18,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 - 🚀 Strong in: **Node.js, React, Puppeteer, Gemini API, SQL/NoSQL**
 - 🧠 DSA Practice: **Active LeetCode problem solver**
 - 🎯 Goal: Engineer robust systems that solve real-world problems
-- 🌐 Portfolio: https://portfolio-y9vl.vercel.app/
+- 🌐 Portfolio: www.ayushmhaisane.in
 
 ---
 
