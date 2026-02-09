@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AyushMhaisane">
-    <img src="https://img.shields.io/github/followers/AyushMhaisane?label=Followers&style=for-the-badge&color=2ecc71" />
+  <a href="https://linkedin.com/in/ayush-mhaisane-858038304/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AyushMhaisane">
-    <img src="https://img.shields.io/github/stars/AyushMhaisane?label=Stars&style=for-the-badge&color=f1c40f" />
+  <a href="mailto:ayushmhaisane25@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Ayush_Mhaisane/">
-    <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode" />
+  <a href="http://www.ayushmhaisane.in">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -37,18 +37,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github.com/AyushMhaisane/AyushMhaisane/blob/master/github-metrics.svg" alt="Ayush's GitHub Metrics" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMhaisane&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
-
-<h3 align="center">🏆 Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AyushMhaisane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&rank=-?" alt="Ayush's Trophies" />
-  </a>
 </p>
 
 ---
