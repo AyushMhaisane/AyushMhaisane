@@ -38,6 +38,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushMhaisane&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMhaisane&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -163,7 +164,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyushMhaisane/AyushMhaisane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AyushMhaisane/AyushMhaisane/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
