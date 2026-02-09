@@ -24,9 +24,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # THEME UPGRADE: Use 'midnight' for a cool Cyber/Dark look
-          config_theme: midnight
-          
           # Language Stats
           plugin_languages: yes
           plugin_languages_ignored: >-
