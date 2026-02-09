@@ -37,13 +37,18 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushMhaisane&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMhaisane&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github.com/AyushMhaisane/AyushMhaisane/blob/master/github-metrics.svg" alt="Ayush's GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMhaisane&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMhaisane&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
+
+<h3 align="center">🏆 Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AyushMhaisane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&rank=-?" alt="Ayush's Trophies" />
+  </a>
 </p>
 
 ---
