@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # allows to manually run the job at any time
+    - cron: "0 */12 * * *" # run every 12 hours
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
     - main
@@ -22,21 +17,17 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates the snake game
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Option 1: Dark Theme (Dark Gray Boxes, Green Snake) - Fits GitHub Dark Mode
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            
-            # Option 2: Ocean Theme (Dark Boxes, Blue/Purple Snake) - A Cool Custom Look
-            dist/github-contribution-grid-snake-ocean.svg?palette=github-dark&color_snake=#7a3bff
+            # CORE FIX: We explicitly set the palette to 'github-dark' 
+            # This makes the empty boxes DARK GRAY (#161b22) instead of white.
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Pushes the files to the "output" branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
