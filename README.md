@@ -5,6 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4EF0FF&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%7C+MERN+%7C+Next.js;Building+Scalable+Backend+Systems;GenAI+Integrations+(Gemini+%2F+LLMs);Cyber+Security+Enthusiast;Always+Learning+and+Building" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ayush_Mhaisane">
+    <img src="https://img.shields.io/github/followers/Ayush_Mhaisane?label=Followers&style=for-the-badge&color=2ecc71" />
+  </a>
+  <a href="https://github.com/Ayush_Mhaisane">
+    <img src="https://img.shields.io/github/stars/Ayush_Mhaisane?label=Stars&style=for-the-badge&color=f1c40f" />
+  </a>
+  <a href="https://leetcode.com/u/Ayush_Mhaisane/">
+    <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -18,46 +30,86 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 - 🚀 Strong in: **Node.js, React, Puppeteer, Gemini API, SQL/NoSQL**
 - 🧠 DSA Practice: **Active LeetCode problem solver**
 - 🎯 Goal: Engineer robust systems that solve real-world problems
-- 🌐 Portfolio: www.ayushmhaisane.in
+- 🌐 Portfolio: [www.ayushmhaisane.in](http://www.ayushmhaisane.in)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush_Mhaisane&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush_Mhaisane&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush_Mhaisane&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
 ## 💼 Work Experience
 
-### 👮‍♂️ Cyber Security Intern  
+### 👮‍♂️ Cyber Security Intern
 **Cyber Cell, Pimpri Chinchwad Police** | *Dec 2025 – Present*
-- Assisting officials in **digital forensics**, server log analysis, and metadata examination
-- Performing **OSINT investigations** for cybercrime cases
-- Exposure to **cyber laws, data privacy, and incident response**
+- Assisting officials in **digital forensics**, server log analysis, and metadata examination.
+- Performing **OSINT investigations** for cybercrime cases.
+- Exposure to **cyber laws, data privacy, and incident response**.
 
-### 💻 Software Development Intern  
+### 💻 Software Development Intern
 **Compilers Technologies** | *June 2023 – July 2023*
-- Completed training in **Advanced Java (Swing, JDBC, Servlets)**
-- Built GUI-based applications with backend database integration
-- Participated in the complete **Software Development Life Cycle (SDLC)**
+- Completed training in **Advanced Java (Swing, JDBC, Servlets)**.
+- Built GUI-based applications with backend database integration.
+- Participated in the complete **Software Development Life Cycle (SDLC)**.
+
+---
+
+## 🌟 Featured Projects
+
+### 📝 AI Resume Rewrite Coach (New!)
+**Next.js · Gemini Pro · Tailwind CSS · Node.js**
+- Developed an intelligent platform that analyzes resumes against job descriptions.
+- Integrated **Gemini AI** to provide real-time, actionable feedback on wording, structure, and ATS compatibility.
+- Features a dynamic editor and PDF export functionality for a seamless user experience.
+
+### 🤖 AI-Enhanced Data Scraper
+**Node.js · Puppeteer · Google Gemini · Jest**
+- Automated scraping of dynamic documentation websites.
+- AI-powered transformation of raw HTML into clean Markdown.
+- Reliable backend pipeline with unit testing.
+
+### 🛠️ AI-Powered IT Support Platform
+**React · Supabase · n8n · Gemini**
+- AI-based ticket categorization and prioritization.
+- Workflow automation to reduce manual triage.
+- Real-time updates using subscriptions.
+
+### 📅 Calendly Clone
+**Next.js · Prisma · NeonDB · Clerk**
+- Secure scheduling system with timezone handling.
+- Automatic Google Meet link generation.
+- Modern authentication and authorization flow.
 
 ---
 
 ## 🧠 Core Strengths & Engineering Focus
 
 - **Data Structures & Algorithms**
-  - Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, DP
-  - Consistent problem-solving practice on LeetCode
+  - Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, DP.
+  - Consistent problem-solving practice on LeetCode.
 
 - **Backend Engineering**
-  - RESTful API design and validation
-  - Authentication, authorization, and error handling
-  - Database schema design and query optimization
+  - RESTful API design and validation.
+  - Authentication, authorization, and error handling.
+  - Database schema design and query optimization.
 
 - **AI & Automation**
-  - Web scraping pipelines using Puppeteer
-  - LLM-powered processing using Google Gemini
-  - Workflow automation with n8n
+  - Web scraping pipelines using Puppeteer.
+  - LLM-powered processing using Google Gemini.
+  - Workflow automation with n8n.
 
 - **Software Engineering Practices**
-  - Clean, modular, and testable code
-  - Unit testing with Jest
-  - Git-based version control and collaboration
+  - Clean, modular, and testable code.
+  - Unit testing with Jest.
+  - Git-based version control and collaboration.
 
 ---
 
@@ -100,69 +152,36 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 AI-Enhanced Data Scraper  
-**Node.js · Puppeteer · Google Gemini · Jest**
-- Automated scraping of dynamic documentation websites
-- AI-powered transformation of raw HTML into clean Markdown
-- Reliable backend pipeline with unit testing
-
-### 🛠️ AI-Powered IT Support Platform  
-**React · Supabase · n8n · Gemini**
-- AI-based ticket categorization and prioritization
-- Workflow automation to reduce manual triage
-- Real-time updates using subscriptions
-
-### 📅 Calendly Clone  
-**Next.js · Prisma · NeonDB · Clerk**
-- Secure scheduling system with timezone handling
-- Automatic Google Meet link generation
-- Modern authentication and authorization flow
-
----
-
 ## 📜 Certifications
-- **Database Management Systems (Elite)** — NPTEL  
-- **Generative AI Tools Workshop** — BE10x  
-- **Data Structures & Algorithms** — Various Platforms  
+- **Database Management Systems (Elite)** — NPTEL
+- **Generative AI Tools Workshop** — BE10x
+- **Data Structures & Algorithms** — Various Platforms
 
 ---
 
-## 🧩 LeetCode & Competitive Programming
-
-<p>
-  <a href="https://leetcode.com/u/Ayush_Mhaisane/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/DSA-Active-green" />
-  <img src="https://img.shields.io/badge/Language-Java%20%7C%20C++-blue" />
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush_Mhaisane&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" alt="github-profile-trophy" /></a>
 </p>
-
-- Regular problem-solving on **LeetCode**
-- Focus on **optimized, readable solutions**
-- Strong grasp of **time and space complexity**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:ayushmhaisane25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/ayush-mhaisane-858038304/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
   <a href="https://leetcode.com/u/Ayush_Mhaisane/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" />
   </a>
-  <a href="www.ayushmhaisane.in">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  <a href="http://www.ayushmhaisane.in">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"Success comes from consistency and discipline."</i>
