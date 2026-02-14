@@ -45,7 +45,7 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 ## 💼 Work Experience
 
 ### 👮‍♂️ Cyber Security Intern
-**Cyber Cell, Pimpri Chinchwad Police** | *Dec 2025 – Present*
+**Cyber Cell, Pimpri Chinchwad Police** | *Dec 2025 – Jan 2026*
 - Assisting officials in **digital forensics**, server log analysis, and metadata examination.
 - Performing **OSINT investigations** for cybercrime cases.
 - Exposure to **cyber laws, data privacy, and incident response**.
