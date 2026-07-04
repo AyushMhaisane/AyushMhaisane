@@ -78,11 +78,6 @@ I work at the intersection of **Software Engineering** and **Artificial Intellig
 - Workflow automation to reduce manual triage.
 - Real-time updates using subscriptions.
 
-### 📅 Calendly Clone
-**Next.js · Prisma · NeonDB · Clerk**
-- Secure scheduling system with timezone handling.
-- Automatic Google Meet link generation.
-- Modern authentication and authorization flow.
 
 ---
 
